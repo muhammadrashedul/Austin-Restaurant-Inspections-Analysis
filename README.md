@@ -21,18 +21,23 @@ Dataset Overview
 The records in this dataset consist of inspection records, from restaurants spanning across Austin. The key variables are Inspection Type (routine, follow-up, and complaint based), Inspection Scores, Violation Categories, Restaurant Type, and Restaurant Location. To this end, the variables will be analyzed to determine the effect of different types of inspections on the level of compliance and the influence of frequency of inspection on the behavior of restaurants (Nelson & Adams, 2021).
 
 Project Questions
+
 1.	What difference does this make, whether inspection scores vary between different inspector types?
 
 Objective: Discover trend in the inspection outcomes and examine which types of inspections have a higher level of compliance.
+
 3.	What are certain violations more common in certain types of inspections?
 
 Objective: This objective is to see if there are different issues found through follow-up and complaint-based inspecting than through routine assessments.
+
 4.	At what frequency do you perform inspections, and do you comply better during this period?
 
 Objective: In this paper, the central problem being addressed is assessing whether restaurants that are regularly inspected adhere to health codes more frequently than those that are less frequently inspected.
+
 5.	Does follow up inspections successfully go on reducing successive violations?
 
 Objective: Determine the roles of follow-up visits on long-term compliance improvements.
+
 6.	What is the role that restaurant location and type play in compliance outcomes?
 
 Objective: To test whether some types of restaurants or particular locations need to be inspected more intensively.
