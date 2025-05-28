@@ -22,14 +22,16 @@ The records in this dataset consist of inspection records, from restaurants span
 
 Project Questions
 1.	What difference does this make, whether inspection scores vary between different inspector types?
-Objective: Discover trend in the inspection outcomes and examine which types of inspections have a higher level of compliance.
-2.	What are certain violations more common in certain types of inspections?
+
+Objective:
+Discover trend in the inspection outcomes and examine which types of inspections have a higher level of compliance.
+3.	What are certain violations more common in certain types of inspections?
 Objective: This objective is to see if there are different issues found through follow-up and complaint-based inspecting than through routine assessments.
-3.	At what frequency do you perform inspections, and do you comply better during this period?
+4.	At what frequency do you perform inspections, and do you comply better during this period?
 Objective: In this paper, the central problem being addressed is assessing whether restaurants that are regularly inspected adhere to health codes more frequently than those that are less frequently inspected.
-4.	Does follow up inspections successfully go on reducing successive violations?
+5.	Does follow up inspections successfully go on reducing successive violations?
 Objective: Determine the roles of follow-up visits on long-term compliance improvements.
-5.	What is the role that restaurant location and type play in compliance outcomes?
+6.	What is the role that restaurant location and type play in compliance outcomes?
 
 Objective: To test whether some types of restaurants or particular locations need to be inspected more intensively.
  
