@@ -1,2 +1,2 @@
-# Austin-Restaurant-Inspections-Analysis
+# Austin Restaurant Inspections Analysis
 Evaluating Inspection Effectiveness for Safer Dining Experiences
