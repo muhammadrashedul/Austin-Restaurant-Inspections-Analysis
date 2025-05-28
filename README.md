@@ -22,7 +22,6 @@ The records in this dataset consist of inspection records, from restaurants span
 
 Project Questions
 1.	What difference does this make, whether inspection scores vary between different inspector types?
-
 Objective:
 Discover trend in the inspection outcomes and examine which types of inspections have a higher level of compliance.
 3.	What are certain violations more common in certain types of inspections?
